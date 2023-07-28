@@ -440,9 +440,9 @@ public class EffectsController : MonoBehaviour
             else if (Random.value < 0.2f)
                 ssp.SetText("FAIL!", playerColor);
             else if (Random.value < 0.2f)
-                ssp.SetText("CRAP!", playerColor);
+                ssp.SetText("NOPE!", playerColor);
             else if (Random.value < 0.2f)
-                ssp.SetText("SHIT!", playerColor);
+                ssp.SetText("ERROR!", playerColor);
             else if (Random.value < 0.2f)
                 ssp.SetText("CRUD!", playerColor);
             else if (Random.value < 0.2f)
